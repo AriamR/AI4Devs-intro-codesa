@@ -9,7 +9,7 @@ Ejemplo: si introduzco AI4Devs devuelve sveD4AI
 Gemini.
 
 ### Prompt 2:
-puedes mejorar la estructura html para que sea mas funcional.
+puedes mejorar la estructura html para que sea mas funcional e interactiva.
 
 ### Prompt Final:
 puedes optimizar el codigo utilizando funciones de javascript ES6 en adelante?.
